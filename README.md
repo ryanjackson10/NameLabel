@@ -5,3 +5,5 @@ Here's an example of Orson Welles (taken from The Dick Cavett Show):
 
 and another example of Paul Thomas Anderson (taken from Jimmy Kimmel Live)
 ![](src/assets/examples/pta.gif)
+
+the conversions from mp4 to gif and back again have made these examples look a lot grainier than they actually are
