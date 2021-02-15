@@ -4,4 +4,4 @@ Here's an example of Orson Welles (taken from The Dick Cavett Show):
 ![](src/assets/examples/orson.gif)
 
 and another example of Paul Thomas Anderson (taken from Jimmy Kimmel Live)
-![](src/assets/examples/pta.png)
+![](src/assets/examples/pta.gif)
